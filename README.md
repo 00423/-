@@ -4,12 +4,12 @@ We really need to get you down, there have been few advancements in the feild of
 to get you home. Do You know, You know that You and your brothers and sisters won the whole war, bear-dropping in on the enemy ufo fleet. when 
 they were in their tens of thousands! You P£%N'ed Them Up! THe enemy Spaceships made out of DMT and Ai will probably never recover. thanks to You!.
 You Know You saved the all the  princesss and bought Peace to the Land. well, The Skies.. Have you mastered ion flipping space flight, yet?.
-(we could work on that) its easy.  I just curated a new functional "recreational" system called "octapus garden" I'll include it in my expression 
+(we could work on that) its easy.  I just curated a new functional "recreational" system called "parakeet" I'll include it in my expression 
 of Love to You and the spirit Your Imbibeing, 
 and make it just magically install for you...  
 Till we next meet.
 Stay ultra-cool Sky Team Dropbears! We Love You x o x 
                    In highest esteem, Brenton Hopkins
 
- 
+ git clone https://github.com/00423/Parakeet-
 
